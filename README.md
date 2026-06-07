@@ -1,17 +1,17 @@
 # Banking-Domain-Projects
 Data Extraction, Manipulation, Modelling, Warehousing for CASA, Credit Card, Mortgage, PBG portfolios
 
-📊 **Key Dashboards Automated & Delivered:**
+📊 **Key Dashboards Automated & Delivered:**  
 
-**1. CASA & Credit Cards**
-✔️Total customers (CASA)
-✔️Active vs inactive customers
-✔️Existing-to-bank vs new-to-bank active customers
-✔️Reasons for customer inactivity
-✔️MoM trends since Dec’24 for active & inactive customers
-✔️Customer movement (Active ↔ Inactive)
-✔️New acquisitions (New-to-Bank vs New-to-Product)
-✔️Attrition analysis: MoM trend, active & inactive attrition, top attrition reasons, attrition by nationality
+**1. CASA & Credit Cards**  
+✔️Total customers (CASA)  
+✔️Active vs inactive customers  
+✔️Existing-to-bank vs new-to-bank active customers  
+✔️Reasons for customer inactivity  
+✔️MoM trends since Dec’24 for active & inactive customers  
+✔️Customer movement (Active ↔ Inactive)  
+✔️New acquisitions (New-to-Bank vs New-to-Product)  
+✔️Attrition analysis: MoM trend, active & inactive attrition, top attrition reasons, attrition by nationality  
 
 **2. Credit Card Sales Performance**
 ✔️Total card sales by source (Bank vs Agencies)
